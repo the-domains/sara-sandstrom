@@ -1,0 +1,28 @@
+name: Sara Sandstrom
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#191919'
+    - '#d6d3cf'
+    - '#333c37'
+    - '#656b70'
+  brandStrength: 0.0625
+  lightness: 0.06773711950518191
+  saturation: 0.8330467289779335
+  rhythmicContrast: 0.12829561927355826
+purpose: []
